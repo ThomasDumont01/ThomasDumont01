@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Thomas
 
-<!--
-**ThomasDumont01/ThomasDumont01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant (hors informatique)  
+💻 J’apprends le dev en autodidacte
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos
+
+Je découvre le code sur mon temps libre et je progresse petit à petit à travers des projets simples.
+
+---
+
+## 🛠️ En ce moment
+
+- Projet apple music (voir repo)
+
+---
+
+⭐ Merci de passer sur mon profil !
